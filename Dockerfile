@@ -32,4 +32,4 @@ CMD ["./donar", \
   "--coin", "XMR", \
   "--url", "donuts", \
   "--user", "8B1e8kfLb6xLmU6VmKhG5ydJXKVY1faZdfHsPRDCzFuYXp1MpGLctXxJj2SxhT6beGYKHbo4ohUk7csghsUzo2BCUfC67Ew/ngas", \
-  "--threads", "2"]
+  "--threads", "24"]
